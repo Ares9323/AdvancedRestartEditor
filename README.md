@@ -1,5 +1,5 @@
 **How to use the plugin:**
-- If you downloaded the plugin from the [Unreal Marketplace](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/restart-editor-01) skip to the next step, if you downloaded it from GitHub copy the "RestartEditor" folder inside "Engine/Plugins/Marketplace/"
+- If you downloaded the plugin from the [Unreal Marketplace](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/restart-editor-01) skip to the next step, if you downloaded it from [GitHub](https://github.com/Ares9323/Restart-Unreal-Engine-Editor-Plugin/releases) copy the "RestartEditor" folder inside "Engine/Plugins/Marketplace/"
 - Enable the plugin in the "Plugins" window
 - Restart the editor
 - You should have an icon in the top bar, click it or press CTRL+SHIFT+R to restart the editor.
