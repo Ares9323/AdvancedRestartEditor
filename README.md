@@ -12,7 +12,7 @@
 - You should have an icon in the top bar, click it or press CTRL+ALT+R to restart the editor.
 - Press CTRL+ALT+SHIFT+R to force restart the editor, no prompt to save file changes will show up.
 - In Editor Settings you can change the behaviour of the extension from the Plugins tab section, select "Advanced Restart Editor Plugin"
-  - ![SettingsImage](https://github.com/Ares9323/Restart-Unreal-Engine-Editor-Plugin/blob/master/Pictures/Settings.png)
+![SettingsImage](https://github.com/Ares9323/Restart-Unreal-Engine-Editor-Plugin/blob/master/Pictures/Settings.png)
   - Look for Multiple Instances on Startup, if true the plugin will check if another instance of the editor is already running, if true it will ask you if you want to close it or continue opening it.
   - Allow Multiple Instances of same Project, if false the plugin will automatically close the other instance of the editor if you try to open the same project.
   - Show Notification on Auto Close, if true the plugin will show a notification when it closes the other instance of the editor.
