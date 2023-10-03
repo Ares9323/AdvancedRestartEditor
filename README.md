@@ -1,11 +1,11 @@
-**Restart Unreal Editor - How to use the plugin:**
+## **Restart Unreal Editor [FREE VERSION] - How to use the plugin:**
 - If you downloaded the plugin from the [Unreal Marketplace](https://marketplace-website-node-launcher-prod.ol.epicgames.com/ue/marketplace/en-US/product/restart-editor-01) skip to the next step, if you downloaded it from [GitHub](https://github.com/Ares9323/Restart-Unreal-Engine-Editor-Plugin/releases) copy the "RestartEditor" folder inside "Engine/Plugins/Marketplace/"
 - Enable the plugin in the Editor "Plugins" window
 - Restart the editor
 - You should have an icon in the top bar, click it or press CTRL+SHIFT+R to restart the editor.
 - If you want to enable by default the extension for all your project, edit the "RestartEditor.uplugin" file that you can find in the folder: "Engine/Plugins/Marketplace/RestartEditor" and set "EnabledByDefault" to true, otherwise, you could use [this amazing tool to Disable and Enable plugins by default](https://github.com/DarknessFX/UEPlugins_DisableDefault).
 
-**Advanced Restart Editor - How to use the plugin:**
+## **Advanced Restart Editor [PAID VERSION] - How to use the plugin:**
 - Download the plugin from the [Unreal Marketplace](https://unrealengine.com/marketplace/en-US/product/dbe5d2a00fa541b2917ae5c987ff5d62)
 - Enable the plugin in the Editor "Plugins" window
 - Restart the editor
